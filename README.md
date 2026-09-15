@@ -35,3 +35,13 @@ Each `lab N` folder contains one `Part_X.py` file per section of that lab's work
 - **Part F** - break and continue
 - **Part G** - Applied challenge: Console study tracker
 - **Part H** - Stretch challenges
+
+## Lab 4 - Functions
+
+- **Part A** - Function fundamentals
+- **Part B** - Return values
+- **Part C** - Defaults and keyword arguments
+- **Part D** - Functions and collections
+- **Part E** - Decomposition
+- **Part F** - Applied challenge: Event registration processor
+- **Part G** - Stretch challenges
