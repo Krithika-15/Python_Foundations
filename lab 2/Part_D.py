@@ -30,7 +30,7 @@ print()
 # 3
 # existing key: both work the same
 print("Q-3")
-print(f"Os : {laptop["OS"]}")
+# print(f"Os : {laptop["OS"]}") #unsafe way to get unknown key
 print(f"Os : {laptop.get("OS", "Not available")}")
 
 # missing key: they behave very differently
