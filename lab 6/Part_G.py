@@ -14,9 +14,10 @@ print(sim_nums_list)
 
 
 # 2
-print("Q-2")
+print("\nQ-2")
 # Outer comprehension makes one row per number, inner comprehension fills that row
-table = [[row * col for col in range(1, 6)] for row in range(1, 6)]
+table = [[row * col for col in range(1, 11)] for row in range(1, 6)]
+# print(table)
 
 for row in table:
     print(row)
@@ -29,7 +30,7 @@ for row in table:
 # If it needed a third level or an extra if-condition, a normal nested loop would be clearer.
 
 # 3
-print("Q-3")
+print("\nQ-3")
 names = ["Harry", "Emma", "Ron", "Hermione", "John"]
 scores = [72, 45, 88, 91, 38]
 PASS_MARK = 50
@@ -44,7 +45,7 @@ for student in passing_students:
     print(student)
 
 # 4
-print("Q-4")
+print("\nQ-4")
 scores = [72, 45, 88, 91, 38, 100]
 
 # Using loop to find if anyone failed ie, score is below 50
@@ -69,7 +70,7 @@ print("Everyone passed (loop):", everyone_passed)
 print("Everyone passed (all):", all(score >= 50 for score in scores))
 
 # 5
-print("Q-5")
+print("\nQ-5")
 # 1: list comprehension
 numbers = [1, 2, 3, 4]
 

@@ -45,3 +45,43 @@ Each `lab N` folder contains one `Part_X.py` file per section of that lab's work
 - **Part E** - Decomposition
 - **Part F** - Applied challenge: Event registration processor
 - **Part G** - Stretch challenges
+
+## Lab 5 - Scope and flexible arguments
+
+- **Part A** - Scope
+- **Part B** - *args
+- **Part C** - Positional unpacking
+- **Part D** - **kwargs
+- **Part E** - Combining parameters
+- **Part F** - Applied challenge: Report builder
+- **Part G** - Stretch challenges
+
+## Lab 6 - Pythonic Python
+
+- **Part A** - List comprehensions
+- **Part B** - Dictionary and set comprehensions
+- **Part C** - enumerate
+- **Part D** - zip and unpacking
+- **Part E** - sorted and lambda
+- **Part F** - Applied challenge: Data cleanup
+- **Part G** - Stretch challenges
+
+## Lab 5 - Scope and flexible arguments
+
+- **Part A** - Scope
+- **Part B** - *args
+- **Part C** - Positional unpacking
+- **Part D** - **kwargs
+- **Part E** - Combining parameters
+- **Part F** - Applied challenge: Report builder
+- **Part G** - Stretch challenges
+
+## Lab 6 - Pythonic Python
+
+- **Part A** - List comprehensions
+- **Part B** - Dictionary and set comprehensions
+- **Part C** - enumerate
+- **Part D** - zip and unpacking
+- **Part E** - sorted and lambda
+- **Part F** - Applied challenge: Data cleanup
+- **Part G** - Stretch challenges
