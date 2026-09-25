@@ -66,22 +66,34 @@ Each `lab N` folder contains one `Part_X.py` file per section of that lab's work
 - **Part F** - Applied challenge: Data cleanup
 - **Part G** - Stretch challenges
 
-## Lab 5 - Scope and flexible arguments
+## Lab 7 - Classes and objects
 
-- **Part A** - Scope
-- **Part B** - *args
-- **Part C** - Positional unpacking
-- **Part D** - **kwargs
-- **Part E** - Combining parameters
-- **Part F** - Applied challenge: Report builder
+- **Part A** - Classes and objects
+- **Part B** - Methods and state
+- **Part C** - Instance and class attributes
+- **Part D** - Collections of objects
+- **Part E** - Objects inside objects
+- **Part F** - Applied challenge: Course manager
 - **Part G** - Stretch challenges
 
-## Lab 6 - Pythonic Python
+## Lab 8 - Inheritance
 
-- **Part A** - List comprehensions
-- **Part B** - Dictionary and set comprehensions
-- **Part C** - enumerate
-- **Part D** - zip and unpacking
-- **Part E** - sorted and lambda
-- **Part F** - Applied challenge: Data cleanup
-- **Part G** - Stretch challenges
+- **Part A** - Mutable default arguments
+- **Part B** - Dictionary or class?
+- **Part C** - Inheritance fundamentals
+- **Part D** - Inherited and subclass-specific behaviour
+- **Part E** - super() and shared initialization
+- **Part F** - Method overriding
+- **Part G** - Override and still use the base method
+- **Part H** - Applied challenge: User accounts
+
+## Lab 9 - Polymorphism and composition
+
+- **Part A** - Polymorphism
+- **Part B** - Polymorphism with inheritance
+- **Part C** - Duck typing
+- **Part D** - isinstance()
+- **Part E** - `__str__`
+- **Part F** - `__str__` with inheritance
+- **Part G** - Inheritance or composition?
+- **Part H** - Applied challenge: Export system
